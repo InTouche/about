@@ -1,5 +1,5 @@
 
-![чикс](https://github.com/Jentyx/Jentyx/blob/main/header.png)
+![чикс](https://raw.githubusercontent.com/Jentyx/Jentyx/main/header.png?token=GHSAT0AAAAAABXDSQU5Z54SKVTDSEHZR4LQYXGSS6A)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%95DDD4A&lines=Чиикс+Бэээмс)](https://git.io/typing-svg)
 
 ---
